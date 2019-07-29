@@ -50,6 +50,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                 <div class="footer-widget">
                     <h3 class="footer-title">Join our Newsletter</h3>
                     <div class="footer-newsletter">
+
                         <form>
                             <input class="input" type="email" name="newsletter" placeholder="Enter your email">
                             <button class="newsletter-btn"><i class="fa fa-paper-plane"></i></button>

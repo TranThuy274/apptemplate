@@ -5,6 +5,7 @@
 
 <title>WebMag HTML Template</title>
 
+
 <!-- Google font -->
 <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:700%7CNunito:300,600" rel="stylesheet">
 

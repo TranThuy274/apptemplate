@@ -178,6 +178,7 @@
                         </div>
                     </div>
                 </div>
+
                 <!-- /post widget -->
 
                 <!-- catagories -->
