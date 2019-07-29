@@ -25,6 +25,9 @@ if (isset($_GET["page"]) && $_GET["page"]){
 
 <!-- Footer -->
 <?php include_once "partials/footer.php"?>
+
+
+
 <!-- /Footer -->
 
 <!-- jQuery Plugins -->
